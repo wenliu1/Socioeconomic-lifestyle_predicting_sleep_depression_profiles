@@ -40,5 +40,5 @@ Main/
 │   ├── SHAP.py (Calculate SHAP scores)
 │
 └── rCCA
-   ├── rCCA.ipynb    (regularised canonical correlation analysis)
+    ├── rCCA.ipynb    (regularised canonical correlation analysis)
 ```
